@@ -1,0 +1,8 @@
+Package: QuanLyThuVien
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: PhuNguyen 
+Description: Phần mềm quản lý thư viện version 1.0.0
